@@ -1,0 +1,2 @@
+# simplotel
+Hotel webpage
